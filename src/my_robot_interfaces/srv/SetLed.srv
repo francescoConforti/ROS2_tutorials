@@ -1,0 +1,7 @@
+# Led number starts from 0
+# state = true is on, false is off
+
+int64 led_number
+bool state
+---
+bool success
